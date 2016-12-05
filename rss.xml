@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NightHocEntertainment, Inc]]></title>
+        <description><![CDATA[NightHocEntertainment, Inc]]></description>
+        <link>http://nighthocfilms.lol/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 05 Dec 2016 12:13:07 GMT</lastBuildDate>
+        <atom:link href="http://nighthocfilms.lol/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1379d13e-d5a5-4fff-9a7c-bed885ea28d3.png">]]></description>
+            <link>http://nighthocfilms.lol/newnighthocfilmswebsite/index.html</link>
+            <guid isPermaLink="false">4e4ee3d8-9268-4cc9-be87-e75ed87cf98e</guid>
+            <pubDate>Mon, 05 Dec 2016 12:12:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
