@@ -1,0 +1,46 @@
+typography_spectrum: 0.961444795364514
+color:
+  brandStrength: 0.8516657201107591
+  lightness: 0.5870798157993704
+  saturation: 0.046014231629669666
+  rhythmicContrast: 0.6361625448334962
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d78b1f9d-45e3-4bf2-b29a-3b1db3740045.png
+layout_spectrum: 0.25341246649622917
+author:
+  name: Hoc Ly
+  email: NightHocFilms.com
+  url: NightHocFilms.lol
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00d054a6-e32b-477d-9361-ac62a3405310.png
+name: NightHocFilms
+navigation:
+  - name: NightHocFilms IG
+    url: 'https://www.instagram.com/nighthocfilms/'
+    type: external
+  - name: NightHocFilms YouTube
+    url: 'https://www.youtube.com/channel/UCj5cEXxj-csZV2h2GEQpGRg'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5809391-373d-4292-aaae-5b2967743a0b.png
+title: 'NightHocEntertainment, Inc'
+content: []
+description: >-
+  Hoc Ly and NightHocFilms makes Great Beautiful Cinema For All Ages. We
+  Specialize in Educational Silly Children's Film's, Kung Fu Comedies, and
+  Social Compassion
+purpose:
+  - type: contact
+    url: 'tel:+1-(609)-271-1152'
+    label: +1-(609)-271-1152
+  - type: contact
+    url: 'mailto:nighthocfilms@gmail.com'
+    label: 'Say Hai to Me and Let Us Hang Out :D Peace Light and Love'
